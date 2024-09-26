@@ -4,5 +4,7 @@
   "Main page": "Main page",
   "Language": "English",
   "About us": "About us",
-  "Page not found": "Page not found"
+  "Page not found": "Page not found",
+  "unexpectedError": "An unexpected error occurred",
+  "reloadPage": "Reload the page"
 }
